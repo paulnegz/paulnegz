@@ -61,7 +61,11 @@ C++        ████░░░░░░░░░░░░░░░░  Embedde
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
 [![Elastic%20Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co)
 [![Supervisor](https://img.shields.io/badge/Supervisor-888888?style=for-the-badge)](http://supervisord.org)
+
+#### 📊 Observability
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
+[![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)](https://www.nagios.org)
 
 #### ⚙️ Automation
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
