@@ -4,6 +4,7 @@ OSS optimist building at the intersection of infrastructure, observability, and 
 
 ## What I'm working on
 
+- **[Quizlink](https://quizlink.net)** - Building the future of interactive learning
 - **LLM Tooling** - Contributing to [langfuse-go](https://github.com/paulnegz/langfuse-go), [langgraphgo](https://github.com/paulnegz/langgraphgo), and exploring LLM observability
 - **Cloud Security** - Working with [prowler](https://github.com/paulnegz/prowler) for cloud security assessments
 - **Observability** - Building and extending monitoring solutions with Grafana, k6, and related tools
