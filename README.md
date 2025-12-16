@@ -19,12 +19,67 @@ TypeScript ██████░░░░░░░░░░░░░░  Fronten
 C++        ████░░░░░░░░░░░░░░░░  Embedded Systems
 ```
 
-## Stats
+## Technologies
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paulnegz&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulnegz&layout=compact&theme=default&hide_border=true" />
-</p>
+#### 🏗️ Core Technologies
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+
+#### 💾 Databases & Storage
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![ScyllaDB](https://img.shields.io/badge/ScyllaDB-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)](https://www.scylladb.com)
+[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)](https://min.io)
+
+#### 📡 Messaging & Streaming
+[![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats.io&logoColor=white)](https://nats.io)
+[![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryq.dev)
+[![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)](https://webrtc.org)
+[![WebSocket](https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEgN0wxMyA3TTE0IDdMMTEgNE0xNCA3TDExIDEwTTcgMUw3IDEzTTcgMEw0IDNNNyAwTDEwIDMiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4K&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![Server--Sent%20Events](https://img.shields.io/badge/SSE-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+
+#### 🤖 AI & Machine Learning
+[![Google%20AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google)
+[![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADxSURBVHgBjZK9DcIwEIWfHYIGCkQHNEhMwAiMwAZkAzIBbEA2gA1gBEZgA9iBFJSIEv/cd8JCJBFI3Eun893dd+fzWcAfIoSwALQA1ABUAIpSyuuUUkoIYQPoAhgCmEgpZ8hBCGFrmmYIoAGgL6WcIwdN0zQAePxtWZY1cjBNU/OCKIoa+ALXdUf4gWEYbp8RRdEFP2Ca5hg/UFXVBDlUVVUBKOIbDMPwXNcdIYcwDHsAmgDahmEc8+iuqqoJgiCguDmAAnIID8hBSpkQfB7xXNfF0vO8DXJ4P5Bl2V5KGQPYuq57QA7jvD7iPD8DeAELHz3fTgLb8QAAAABJRU5ErkJggg==&logoColor=white)](https://groq.com)
+[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMkgxMk0yIDdIMTJNMiAxMkgxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+&logoColor=white)](https://elevenlabs.io)
+[![Langfuse](https://img.shields.io/badge/Langfuse-5E5E5E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEJSURBVHgBjZLBTcNAEEX/zNqOQ0IFpgJCBaECQgWhAlIBSQWkApIKSCogqYBQAaECQgW4AuPZ8a7X2BGRkPjS6O/s7Pz52llgRlVVPYqiFsAVgDMAJ8wkiuJSStnleT5hJpFSrnVdX/IhrbUuy7KfMJMoiqILAHce13XdZsxMdrudBKABHHncGGMezMxEWZa9ArgGsPS4NcY8m5lJnudDAGuPtzHGPJmZiTRNXwDceHxtjNkwM5MkSV4B3Hm8McZsmJnJ0+kUAPYevxtjdszMJE3TgTHmEUDBu59t2w6YmcQ5N7bWvgOo+PePUuqWmUm01q9a6xV/s2qtV8xM/gGw1trO2rYdAPgFU5pNWRV6RJ0AAAAASUVORK5CYII=&logoColor=white)](https://langfuse.com)
+[![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KY2lyY2xlIGN4PSI3IiBjeT0iNyIgcj0iMyIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTcgNEw3IDFNNyAxMEw3IDEzTTEwIDdMMTMgN00xIDdMNCA3IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+&logoColor=white)](https://modelcontextprotocol.io)
+
+#### 🔧 DevOps & Infrastructure
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
+[![Elastic%20Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co)
+[![Supervisor](https://img.shields.io/badge/Supervisor-888888?style=for-the-badge)](http://supervisord.org)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
+
+#### 🔐 Authentication & Payments
+[![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcgMEwxNCA3TDcgMTRMMCA3TDcgMFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&logoColor=white)](https://www.keycloak.org)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io)
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com)
+[![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADPSURBVHgBnZK9DcIwEIWfHQIlFIgKaJAYgREYgQ3IBmEDGIERYANGYAQ2gA1IBaSgRJT4574TFiKJQOKkJ9/57r3z+SzgDxFCWABaAGoAKgBFKeV1SiklhLABdAEMAUyklDPkIISwNU0zBNAA0JdSzpGDpmkaADz+tizLGjmYpql5QRRFDXyB67oj/MAwDLfPiKLogh8wTXOMH6iqagJ/kHHcOo6zhj9IktQH0ATQNgzjmEd3VVVNFMcxxc0BFJBDeEApZUJxXdfHLITYIIf3A0foPdYz06OMAAAAAElFTkSuQmCC&logoColor=white)](https://paystack.com)
+
+#### 📦 Python Ecosystem
+[![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryq.dev)
+[![Flower](https://img.shields.io/badge/Flower-FDA061?style=for-the-badge)](https://flower.readthedocs.io)
+[![Redbeat](https://img.shields.io/badge/Redbeat-DC382D?style=for-the-badge)](https://github.com/sibson/redbeat)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADBSURBVHgBrZLBDYMwDEW/E0YgG7BBuwEjsAEbwAZ0g3aDdgM2aDdoNygbhA3qF8lCFQGqVOVJlu3E7z/bEeCPZFlmAHQAGgA1gMrzvFuMkZRSBtADWAPYOI6zQiEhhLGUsgfQANhyzjeklGKMXVJKq5TSLklzzlvGWENKKca5XhR5F0L0pJTKGFPT/7AsywrAFQT35xjj4r3eObcDwT3sN8dvjuN8AFgAuIDg7sYYQ0opxhivP8EFKOB+cc6tSCn1BQgVQg0oSgtAAAAAAElFTkSuQmCC&logoColor=white)](https://www.sqlalchemy.org)
+[![Alembic](https://img.shields.io/badge/Alembic-6BA644?style=for-the-badge)](https://alembic.sqlalchemy.org)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org)
+
+#### 🚀 Go Ecosystem
+[![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://gin-gonic.com)
+[![Gorilla](https://img.shields.io/badge/Gorilla-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://www.gorillatoolkit.org)
+[![Viper](https://img.shields.io/badge/Viper-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/spf13/viper)
+[![Air](https://img.shields.io/badge/Air-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/cosmtrek/air)
+[![Cobra](https://img.shields.io/badge/Cobra-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/spf13/cobra)
+
+#### 🖥️ CLI Tools
+[![Click](https://img.shields.io/badge/Click-000000?style=for-the-badge&logo=python&logoColor=white)](https://click.palletsprojects.com)
+[![Cobra](https://img.shields.io/badge/Cobra_CLI-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/spf13/cobra)
 
 ## Connect
 
