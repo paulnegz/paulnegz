@@ -16,6 +16,7 @@ OSS optimist building at the intersection of infrastructure, observability, and 
 Go         ███████████░░░░░░░░░  Primary
 TypeScript ████████░░░░░░░░░░░░  Frontend & Tooling
 Python     ██████░░░░░░░░░░░░░░  Scripting & ML
+C++        ████░░░░░░░░░░░░░░░░  Embedded Systems
 ```
 
 ## Stats
