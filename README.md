@@ -33,6 +33,7 @@ C++        ████░░░░░░░░░░░░░░░░  Embedde
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 [![ScyllaDB](https://img.shields.io/badge/ScyllaDB-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)](https://www.scylladb.com)
+[![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com)
 [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)](https://min.io)
 
 #### 📡 Messaging & Streaming
